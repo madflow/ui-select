@@ -1,7 +1,7 @@
 /*!
  * @priotas/ui-select
  * http://github.com/angular-ui/ui-select
- * Version: 1.19.8 - 2018-04-04T09:09:21.776Z
+ * Version: 1.19.10 - 2018-04-04T09:26:48.412Z
  * License: MIT
  */
 
